@@ -6,8 +6,7 @@ This software is to locate faults in distribution systems with limited observati
 The proposed method is implemented through Jupyter Notebook. The required packages include:
 - Jupyter Notebook
 - Python 3
-- Numpy
-- torch
+- Python packages: Numpy, torch, time, os, scipy, matplotlib
 
 ## Getting started
 1) You can train the proposed model with "training_123nodes.ipynb" and the test the well-trained model through "Testing_123nodes.ipynb" for the IEEE 123-node test case. 
