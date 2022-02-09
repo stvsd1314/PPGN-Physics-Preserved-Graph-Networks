@@ -11,7 +11,7 @@ The proposed method is implemented through Jupyter Notebook. The required packag
 ## Getting started
 1) You can train the proposed model with "training_123nodes.ipynb" and the test the well-trained model through "Testing_123nodes.ipynb" for the IEEE 123-node test case. 
 2) Similarly, our method is easily extended in IEEE 37-node test case. The training model is in "Training_37nodes.ipynb".
-3) data: this folder contains the training and testing datasets in various situations. 
+3) data: Check the "readme.md" file to find the training and testing datasets in various situations. Others are the mediate information used in the codes. 
 4) trained: this folder has the pre-trained models, including the proposed and the baselines. 
  
  
