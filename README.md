@@ -1,7 +1,6 @@
-# PPGN:Physics-Preserved-Graph-Networks 
-This software is to locate faults in distribution systems with limited observations and labels through PPGN. PPGN performs better than the baselines when labeled data are insufficient and the distribution of data vary randomly.  
+# PPGN:Physics-Preserved-Graph-Networks  
 ============================================================================== 
-Code accompanying the paper ["PPGN: Physics-Preserved Graph Networks for Fault Location with Limited Observation and Labels"] 
+This software is to locate faults in distribution systems with limited observations and labels through PPGN. PPGN performs better than the baselines when labeled data are insufficient and the distribution of data vary randomly.   Code accompanying the paper ["PPGN: Physics-Preserved Graph Networks for Fault Location with Limited Observation and Labels"] 
 
 ## Prerequisites
 The proposed method is implemented through Jupyter Notebook. The required packages include:
